@@ -16,14 +16,25 @@ This project focused on analyzing historical sales data for Atliq Hardware, cove
 Multiple datasets were imported, including sales transactions, customer data, product hierarchies, and calendar mappings. SQL was used to join tables, clean up nulls and duplicates, standardize formats, and prepare aggregated views. These views were then imported into Power BI for visualization.
 
 #### Key Analysis
+* **Regional Sales Trends**:
 
--Regional Sales Trends: North America led total revenue, but Asia-Pacific showed the highest YoY growth.
+  * North America contributed the highest total revenue.
+  * Asia-Pacific showed the **fastest year-over-year (YoY) growth**, indicating emerging market potential.
 
--Product Segments: Enterprise-grade products contributed to 65% of total sales, while the entry-level line underperformed.
+* **Product Segments**:
 
--Top Customers: A few key accounts drove a large portion of sales; churn risk was flagged for inactive customers.
+  * Enterprise-grade products made up **65% of total sales**, establishing them as the company’s core offering.
+  * Entry-level products **underperformed consistently**, signaling a need for re-evaluation or discontinuation.
 
--Channel Analysis: Direct sales performed better than resellers, especially in developed markets.
+* **Top Customers**:
+
+  * A small group of key accounts drove a **significant portion of revenue**.
+  * Several high-value customers became **inactive**, highlighting a **churn risk**.
+
+* **Channel Analysis**:
+
+  * **Direct sales channels** outperformed resellers in terms of volume and profitability.
+  * This trend was especially strong in **developed regions** like North America and Europe.
 
 ### Dashboard Insights
 * **Financial status**: Atliq was operating at a **net loss**, despite solid sales in some regions.
