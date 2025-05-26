@@ -26,7 +26,17 @@ Multiple datasets were imported, including sales transactions, customer data, pr
 -Channel Analysis: Direct sales performed better than resellers, especially in developed markets.
 
 ### Dashboard Insights
-The Atliq sales analysis revealed that despite strong performance in certain regions (like North America) and product segments (especially enterprise solutions), the company was overall **operating at a loss**. Profit margins were declining year over year, and several product categories consistently underperformed. These findings suggest the need for immediate strategic action. Possible decisions include scaling down or discontinuing low-margin products, optimizing the sales mix toward higher-margin offerings, and improving operational efficiency. The data also highlighted inactive key customers, indicating a potential churn risk that requires proactive account management. While there were signs of regional growth (especially in Asia-Pacific), the company's financial trajectory underscores the urgency of re-evaluating pricing, inventory, and market strategy. Overall, the performance shows that Atliq has growth potential, but it must address its **profitability challenges** to ensure long-term sustainability.
+* **Financial status**: Atliq was operating at a **net loss**, despite solid sales in some regions.
+* **Top-performing segments**: Enterprise-grade products led revenue, especially in North America.
+* **Growth region**: Asia-Pacific showed promising YoY growth.
+* **Underperformers**: Entry-level products and certain channels were dragging profits.
+* **Customer churn risk**: Some top accounts were inactive and flagged for follow-up.
+* **Possible actions**:
+
+  * Focus on high-margin products and profitable regions.
+  * Reduce or discontinue loss-making SKUs.
+  * Improve customer retention and sales efficiency.
+* **Overall performance**: Growth potential exists, but the business must address **profitability and churn** risks urgently.
 
 ### Impact & Conclusion
 The insights generated from the Atliq sales data could help the business refine regional strategies, optimize product offerings, and focus on high-value customer retention.
