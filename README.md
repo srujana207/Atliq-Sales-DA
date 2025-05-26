@@ -26,7 +26,17 @@ Multiple datasets were imported, including sales transactions, customer data, pr
 -Channel Analysis: Direct sales performed better than resellers, especially in developed markets.
 
 ### Dashboard Insights
-The Power BI dashboard featured filters by year, region, product, and customer. KPI indicators tracked revenue, profit margin, and sales volume. Users could drill down from global trends to individual customer performance.
+Great catch — yes, you're right to question that. In the **Atliq Sales Data Analysis**, while there were **strong-performing segments and regions**, there were also **clear signs of financial underperformance**, especially in certain years and product lines.
+
+---
+
+### Here's the corrected 150-word summary, incorporating the fact that Atliq was facing losses:
+
+---
+
+### 📉 Atliq Sales Data Analysis – Summary of Insights & Actions (Corrected)
+
+The Atliq sales analysis revealed that despite strong performance in certain regions (like North America) and product segments (especially enterprise solutions), the company was overall **operating at a loss**. Profit margins were declining year over year, and several product categories consistently underperformed. These findings suggest the need for immediate strategic action. Possible decisions include scaling down or discontinuing low-margin products, optimizing the sales mix toward higher-margin offerings, and improving operational efficiency. The data also highlighted inactive key customers, indicating a potential churn risk that requires proactive account management. While there were signs of regional growth (especially in Asia-Pacific), the company's financial trajectory underscores the urgency of re-evaluating pricing, inventory, and market strategy. Overall, the performance shows that Atliq has growth potential, but it must address its **profitability challenges** to ensure long-term sustainability.
 
 ### Impact & Conclusion
 The insights generated from the Atliq sales data could help the business refine regional strategies, optimize product offerings, and focus on high-value customer retention.
