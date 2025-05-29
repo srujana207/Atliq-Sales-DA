@@ -15,40 +15,45 @@ This project focused on analyzing historical sales data for Atliq Hardware, cove
 ### Data Understanding and Preparation
 Multiple datasets were imported, including sales transactions, customer data, product hierarchies, and calendar mappings. SQL was used to join tables, clean up nulls and duplicates, standardize formats, and prepare aggregated views. These views were then imported into Power BI for visualization.
 
-#### Key Analysis
-* **Regional Sales Trends**:
+#### 🔍 Key Takeaways
 
-  * North America contributed the highest total revenue.
-  * Asia-Pacific showed the **fastest year-over-year (YoY) growth**, indicating emerging market potential.
+##### 🌍 Regional Sales Trends
+- **Delhi NCR** generated over ₹519M in revenue — more than half of total sales.
+- **Mumbai** and **Ahmedabad** followed as strong-performing markets with ₹150M and ₹132M respectively.
 
-* **Product Segments**:
+##### 🧱 Product Segments
+- Top 5 products — `Prod040`, `Prod159`, `Prod065`, `Prod018`, and `Prod053` — together contributed over ₹88M in revenue.
+- Revenue is fairly evenly distributed among top products, indicating a **diversified product performance**.
 
-  * Enterprise-grade products made up **65% of total sales**, establishing them as the company’s core offering.
-  * Entry-level products **underperformed consistently**, signaling a need for re-evaluation or discontinuation.
+##### 👥 Top Customers
+- **Electricalsara Stores** alone generated ₹413M in revenue — over **40% of total**, showing heavy dependency on one client.
+- Other major customers include Electricalslytical, Excel Stores, Premium Stores, and Nixon.
 
-* **Top Customers**:
+##### 📊 Channel & Quantity Analysis
+- Total **sales quantity crossed 2 million units**, with **Delhi NCR alone accounting for nearly 1 million units**.
+- Other high-volume markets include Mumbai, Nagpur, and Kochi.
 
-  * A small group of key accounts drove a **significant portion of revenue**.
-  * Several high-value customers became **inactive**, highlighting a **churn risk**.
+---
 
-* **Channel Analysis**:
+### 📈 Dashboard Insights
 
-  * **Direct sales channels** outperformed resellers in terms of volume and profitability.
-  * This trend was especially strong in **developed regions** like North America and Europe.
+- **Financial status**: Despite decent revenue volume, trends indicate a **gradual decline in revenue** from mid-2018 to 2020.
+- **Top-performing regions**: Northern and western markets (Delhi NCR, Mumbai, Ahmedabad) dominate sales.
+- **Product distribution**: Revenue is not overly concentrated in one SKU, reducing product risk.
+- **Customer concentration risk**: One customer contributes a large portion of revenue — a potential vulnerability.
+- **Growth concern**: Revenue peaked at ₹43M in mid-2018 but has shown a **downward trend** since.
 
-### Dashboard Insights
-* **Financial status**: Atliq was operating at a **net loss**, despite solid sales in some regions.
-* **Top-performing segments**: Enterprise-grade products led revenue, especially in North America.
-* **Growth region**: Asia-Pacific showed promising YoY growth.
-* **Underperformers**: Entry-level products and certain channels were dragging profits.
-* **Customer churn risk**: Some top accounts were inactive and flagged for follow-up.
-* **Possible actions**:
+---
 
-  * Focus on high-margin products and profitable regions.
-  * Reduce or discontinue loss-making SKUs.
-  * Improve customer retention and sales efficiency.
-* **Overall performance**: Growth potential exists, but the business must address **profitability and churn** risks urgently.
+### 🎯 Possible Actions
 
-### Impact & Conclusion
-The insights generated from the Atliq sales data could help the business refine regional strategies, optimize product offerings, and focus on high-value customer retention.
+- Diversify customer base to reduce overreliance on a single account.
+- Investigate causes for declining revenue despite steady product and market performance.
+- Identify strategies to reactivate lower-performing markets like Bengaluru and Patna.
+
+---
+
+### 🧠 Impact & Conclusion
+
+This dashboard reveals clear performance leaders in regions, products, and customers — while also surfacing strategic risks in **customer concentration and declining growth**. Actionable insights can drive Atliq Hardware to optimize focus, balance revenue streams, and recover growth momentum.
 
